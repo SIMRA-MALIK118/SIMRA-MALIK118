@@ -54,7 +54,7 @@ I handle everything from backend logic and database management to front-end desi
 
 ## Connect With Me
 
-- 🌐 Portfolio: simra-dev.netlify.app
+- 🌐 Portfolio: https://simra-dev.netlify.app
 - 📧 Email: maliksimra033@gmail.com 
 - 💼 LinkedIn: https://www.linkedin.com/in/simra-malik-ab452138b/
 - 📘 Facebook: https://www.facebook.com/profile.php?id=61583767313656 
